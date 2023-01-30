@@ -40,7 +40,7 @@ export const projectsData=[
         id:1,
         img:"/images/notes.jpg",
         title:"Online Notes",
-        link:"https://github.com/Panchiwalayash/Online-Notes",
+        link:"https://github.com/Panchiwalayash/Online-Notebook",
         desc1:"A React.js Application to create and store your notes .",
         desc2:'This application is made with the help of Context API.',
         desc3:"This application is built with React.js, Node.js and Mongodb database"
