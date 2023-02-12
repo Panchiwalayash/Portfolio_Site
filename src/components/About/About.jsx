@@ -19,7 +19,7 @@ export const About = () => {
         <div className="soc-link">
           <a href='https://github.com/Panchiwalayash' className="link"><img src="/images/github.png" alt="" /></a>
           <a href="https://www.linkedin.com/in/yash-panchiwala" className="link"><img src="/images/linkedin.png" alt="" /></a>
-          <a href='https://drive.google.com/file/d/1z47sgNVLu-DOc7zt0nry7bZ-aisSnG3B/view?usp=sharing' className="resumeBtn">Resume</a>
+          <a href='https://drive.google.com/file/d/1QoV1RKL3i3kH51KymYH3knLdKgTYWIhN/view?usp=share_link' className="resumeBtn">Resume</a>
         </div>
       </div>
     </div>
