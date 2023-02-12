@@ -53,6 +53,9 @@
 .logo:hover{
     color: rgb(241, 200, 150);
 }
+.navbar.active .nav-link:hover {
+       color: black;
+}
 .nav-content{
     flex: 1;
     display: flex;
@@ -60,15 +63,16 @@
     justify-content: center;
     margin-left: 10%;
     margin-right: 5%;
-} 
-.nav-link{
+}
+
+.nav-link {
     margin-right: 8%;
     color: white;
     padding: 5px;
     font-size: 18px;
     font-weight: bolder;
 }
-.nav-link:hover{
+.nav-link:hover {
     color: black;
     background-color: white;
     border-radius: 5px;
